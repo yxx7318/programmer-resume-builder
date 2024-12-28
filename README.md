@@ -13,6 +13,8 @@
 
 ### PC端运行效果
 
+<video src="PC-HD.mp4"></video>
+
 ![image-20241228163724707](img/README/image-20241228163724707.png)
 
 ![image-20241228163757548](img/README/image-20241228163757548.png)
@@ -22,6 +24,10 @@
 ![image-20241228163911312](img/README/image-20241228163911312.png)
 
 ### 移动端运行效果
+
+<video src="Phone-HD.mp4"></video>
+
+
 
 ![image-20241228163959837](img/README/image-20241228163959837.png)
 
