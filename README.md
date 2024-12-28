@@ -13,7 +13,7 @@
 
 ### PC端运行效果
 
-<video src="https://gitee.com/yxx7318/programmer-resume-builder/blob/master/PC-HD.mp4"></video>
+https://gitee.com/yxx7318/programmer-resume-builder/blob/master/PC-HD.mp4
 
 ![image-20241228163724707](img/README/image-20241228163724707.png)
 
@@ -25,7 +25,7 @@
 
 ### 移动端运行效果
 
-<video src="https://gitee.com/yxx7318/programmer-resume-builder/blob/master/Phone-HD.mp4"></video>
+https://gitee.com/yxx7318/programmer-resume-builder/blob/master/Phone-HD.mp4
 
 
 
