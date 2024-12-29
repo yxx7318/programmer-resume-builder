@@ -128,11 +128,20 @@ overlay.addEventListener('click', closeMenu);
 
 // 表单提交处理
 const contactForm = document.getElementById('contact-form');
-contactForm.addEventListener('submit', (e) => {
+contactForm.addEventListener('submit', async (e) => {
     e.preventDefault();
-    // 这里可以添加表单提交逻辑
-    alert('消息已发送！');
-    contactForm.reset();
+    const form = e.target;
+    const formData = new FormData(form);
+    
+    try {
+        // 这里添加表单提交逻辑
+        console.log('Form submitted:', Object.fromEntries(formData));
+        alert('消息已发送！');
+        form.reset();
+    } catch (error) {
+        console.error('Form submission error:', error);
+        alert('发送失败，请稍后重试');
+    }
 });
 
 // 平滑滚动
